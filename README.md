@@ -16,6 +16,7 @@ This version is a protocol for Bluetooth configuration and reading of internal p
 | 5          | Query device wifi MAC address                |   m,                           |  A0:76:4E:47:6A:4C|
 | 6          | Set static IP                                |   s, static iP, gateway;subnet mask; First DNS; Second DNS  |0x01 |
 
+# Example
 Example of setting a wifi parameters: </br>
 *wifi ssid: test*</br>
 *wifi ssid: test123*</br>
