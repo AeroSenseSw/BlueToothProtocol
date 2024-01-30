@@ -19,7 +19,7 @@ This version is a protocol for Bluetooth configuration and reading of internal p
 # Example
 Example of setting a wifi parameters: </br>
 *wifi ssid: test*</br>
-*wifi ssid: test123*</br>
+*wifi password: test123*</br>
 
 Mobile data sending: 
 ```
